@@ -1,4 +1,6 @@
 board=array.new
+array.new
+
 
 
 
